@@ -1,0 +1,6 @@
+{
+  "name": "MindMirror Cognitive Reframing Journal",
+  "description": "A CBT-based journaling companion that helps reframe thoughts and track emotional patterns using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
